@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-git hub repo for coursera data scientist's toolbox course
+Remote repo for coursera data scientist's toolbox course
